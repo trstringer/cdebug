@@ -1,0 +1,12 @@
+{
+  "name": "cdebug",
+  "version": "0.1.0",
+  "description": "Embedded conditional breakpoint debugging in code",
+  "main": "index.js",
+  "keywords": ["debug", "debugger", "conditional debugging", "breakpoint"],
+  "author": "Thomas Stringer",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^3.3.1"
+  }
+}
